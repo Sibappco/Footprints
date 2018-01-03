@@ -1,5 +1,5 @@
 {
-    "name": "kyranb/footprints",
+    "name": "sibapp/footprints",
     "type": "library",
     "description": "A simple registration attribution tracking solution for Laravel 5.2+ (UTM Parameters and Referrers)",
     "keywords": [
